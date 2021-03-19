@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  margin-left: 0;
+  top:70px;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+.web {
+  font-family: 'Montserrat', sans-serif;
+  ;
+}
+
+.top-container {
+  padding-top: 100px;
+  text-align: center;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+.middle-container{
+  text-align: center;
+}
+.bottom-container{
+  text-align: center;
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+.a{
+  margin-right: 20px;
+}
+span{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  color: #66BFBF;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+.name{
+  line-height: 2px;
+}
+.skill-row{
+  width: auto;
+  margin: 30px auto 30px auto;
+  text-align: center;
+  line-height: 2;
+}
+.webdev{
+  width: 10%;
+  float: left;
+  margin-left: 50px;
+}
